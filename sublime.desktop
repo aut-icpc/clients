@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Sublime
+Icon=/home/auticpc/Programs/sublime2/Icon/16x16/sublime_text.png
+Exec="/home/auticpc/Programs/sublime2/sublime_text" %f
+Categories=Development;IDE;
+Terminal=false

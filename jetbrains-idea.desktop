@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=IntelliJ IDEA
+Icon=/home/auticpc/Programs/idea-IU-162.2228.15/bin/idea.png
+Exec="/home/auticpc/Programs/idea-IU-162.2228.15/bin/idea.sh" %f
+Comment=The Drive to Develop
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-idea
