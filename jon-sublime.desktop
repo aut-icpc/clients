@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Java/C/C++ Editor
+Name=Sublime
+Exec="/home/auticpc/Programs/sublime2/sublime_text" %f
+Icon=/home/auticpc/Programs/sublime2/Icon/32x32/sublime_text.png
+Type=Application
+Terminal=false
+Categories=Development;
+X-Desktop-File-Install-Version=0.22
