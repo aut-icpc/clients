@@ -1,0 +1,13 @@
+---
+- hosts: all
+  tasks:
+    - name: Install required packages
+      become: true
+      apt: name={{item}} state=latest update_cache=yes
+      with_items:
+        - vim
+        - gcc
+        - g++
+        - python3
+        - python2
+        - geany
