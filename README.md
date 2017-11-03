@@ -9,12 +9,13 @@
 - [ ] Judge Connectivity
 - [ ] Compilers
 - [ ] IDEs - Editors
-- [ ] Docs
+- [ ] Docs (DomJudge handles this)
 
 ### Compilers
 
 - Java
 - C / C++
+- C++11 / C++14
 - Python2
 - Python3
 
@@ -22,10 +23,13 @@
 
 - VIM
 - PyCharm
+- CLion
 - CodeBlocks
 - Eclipse
 - Intellij
 - Geany
+- Sublime
+- Emacs
 
 ### Docs
 
