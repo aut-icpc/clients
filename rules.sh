@@ -21,6 +21,6 @@ iptables -A OUTPUT -d 172.23.0.0/16 -j ACCEPT
 iptables -A OUTPUT -d 127.0.0.0/8 -j ACCEPT
 iptables -A INPUT -s 127.0.0.0/8 -j ACCEPT
 # Allowing printer
-iptables -A OUTPUT -d 192.168.129.3 -j ACCEPT
+iptables -A OUTPUT -d 192.168.0.0/16 -j ACCEPT
 # Saving text version of iptables into file
 iptables-save > /etc/iptables.rules
