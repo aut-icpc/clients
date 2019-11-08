@@ -1,7 +1,7 @@
 # ICPC-Client
 
 ## Introduction
-In last two competion @MohammadHossein provide clients with using Qubic, Systemback and Serva.
+For AUT-ICPC competitions of 2017 and 2018, [MohammadHossein](https://github.com/MohammadHossein) and [Ahmad Anvari](https://github.com/anvari1313) provided contestants with an Ubuntu iso image loaded with a PXE server using Cubic/Systemback and Serva.
 
 ## Setting up
 
@@ -28,8 +28,8 @@ In last two competion @MohammadHossein provide clients with using Qubic, Systemb
 - Java
 - C / C++
 - C++11 / C++14
-- Python2
-- Python3
+- ~Python2~ *Will be deprecated on Jan 1st. 2020*
+- Python 3
 
 ### IDEs - Editors
 
@@ -38,10 +38,11 @@ In last two competion @MohammadHossein provide clients with using Qubic, Systemb
 - CLion
 - CodeBlocks
 - Eclipse
-- Intellij
+- IntelliJ
 - Geany
-- Sublime
+- Sublime Text
 - Emacs
+- Visual Studio Code
 
 ### Docs
 
